@@ -1,4 +1,5 @@
-### Hi, I'm Cami 👋
+### Hey, welcome to my page! I'm Cami👋
+
 
 <!--
 **cjorqueravocos/cjorqueravocos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
