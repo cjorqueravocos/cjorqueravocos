@@ -1,4 +1,4 @@
-### Hey, welcome to my page! I'm Cami👋
+### Hey, welcome to my GitHub! I'm Cami👋
 
 
 <!--
